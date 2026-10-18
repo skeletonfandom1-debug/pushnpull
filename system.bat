@@ -24,4 +24,3 @@ hostname >> "%LOGPATH%"
 netstat -ano >> "%LOGPATH%"
 
 echo Enumeration complete. Saved to %LOGPATH%
-pause
